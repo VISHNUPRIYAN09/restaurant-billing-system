@@ -1,0 +1,6 @@
+id,name,category,price,gst_percent
+1,Margherita pizza ,Food,120,0.5
+2,Veg Burger ,Food,80,0.5
+3,French Fries ,Snacks,60,0.5
+4,Cold Coffee ,Beverages,50,0.5
+5,Coco Cola ,Beverages,40,0.5
